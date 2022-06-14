@@ -1,0 +1,17 @@
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.exe
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.deps.json
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.runtimeconfig.json
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.runtimeconfig.dev.json
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.dll
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\bin\Debug\netcoreapp3.1\CardSharkSaveOrganizer.pdb
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.csproj.AssemblyReference.cache
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.Form1.resources
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.csproj.GenerateResource.cache
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.AssemblyInfoInputs.cache
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.AssemblyInfo.cs
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.csproj.CoreCompileInputs.cache
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.dll
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.pdb
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.genruntimeconfig.cache
+C:\Users\theom\OneDrive\Bureau\CardSharkSaveOrganizer\CardSharkSaveOrganizer\CardSharkSaveOrganizer\obj\Debug\netcoreapp3.1\CardSharkSaveOrganizer.Form2.resources
